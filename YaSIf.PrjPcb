@@ -275,7 +275,7 @@ UniqueID=615F68F3-367E-459B-8EA0-1E90C06DEC85
 Description=JLC_SMT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=8
+VariationCount=12
 Variation1=Designator=C29|UniqueId=\JRTWBUAP|Kind=1|AlternatePart= 
 Variation2=Designator=C30|UniqueId=\JYILBVPK|Kind=1|AlternatePart= 
 Variation3=Designator=J3|UniqueId=\DKFXJAKH|Kind=1|AlternatePart= 
@@ -284,6 +284,10 @@ Variation5=Designator=C5|UniqueId=\MKBOWKTU|Kind=1|AlternatePart=
 Variation6=Designator=J2|UniqueId=\JFJWJASI|Kind=1|AlternatePart= 
 Variation7=Designator=J4|UniqueId=\STPCPVAG|Kind=1|AlternatePart= 
 Variation8=Designator=J6|UniqueId=\SQQOIVRA|Kind=0|AlternatePart= 
+Variation9=Designator=U4|UniqueId=\ZBGHYOCM|Kind=0|AlternatePart= 
+Variation10=Designator=U2|UniqueId=\BFIFEPYH|Kind=1|AlternatePart= 
+Variation11=Designator=U3|UniqueId=\UCAHQIOM|Kind=1|AlternatePart= 
+Variation12=Designator=U7|UniqueId=\GLSIMMKM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
