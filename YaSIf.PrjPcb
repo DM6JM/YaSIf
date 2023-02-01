@@ -169,40 +169,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IPCHYRCE
 
 [Document8]
-DocumentPath=Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
-DocumentPath=YaSIf.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
 DocumentPath=PCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFJDUCNA
 
-[Document11]
+[Document9]
 DocumentPath=YaSIf.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBLCCKUF
 
-[Document12]
+[Document10]
 DocumentPath=JLC_PCB_SMT.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=PCB1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +241,7 @@ UniqueID=615F68F3-367E-459B-8EA0-1E90C06DEC85
 Description=JLC_SMT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=12
+VariationCount=13
 Variation1=Designator=C29|UniqueId=\JRTWBUAP|Kind=1|AlternatePart= 
 Variation2=Designator=C30|UniqueId=\JYILBVPK|Kind=1|AlternatePart= 
 Variation3=Designator=J3|UniqueId=\DKFXJAKH|Kind=1|AlternatePart= 
@@ -288,6 +254,7 @@ Variation9=Designator=U4|UniqueId=\ZBGHYOCM|Kind=0|AlternatePart=
 Variation10=Designator=U2|UniqueId=\BFIFEPYH|Kind=1|AlternatePart= 
 Variation11=Designator=U3|UniqueId=\UCAHQIOM|Kind=1|AlternatePart= 
 Variation12=Designator=U7|UniqueId=\GLSIMMKM|Kind=1|AlternatePart= 
+Variation13=Designator=D3|UniqueId=\SLLZEWDS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
