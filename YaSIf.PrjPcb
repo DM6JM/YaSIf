@@ -183,9 +183,9 @@ Variation6=Designator=J2|UniqueId=\JFJWJASI|Kind=1|AlternatePart=
 Variation7=Designator=J4|UniqueId=\STPCPVAG|Kind=1|AlternatePart= 
 Variation8=Designator=J6|UniqueId=\SQQOIVRA|Kind=1|AlternatePart= 
 Variation9=Designator=U4|UniqueId=\ZBGHYOCM|Kind=0|AlternatePart= 
-Variation10=Designator=U2|UniqueId=\BFIFEPYH|Kind=1|AlternatePart= 
-Variation11=Designator=U3|UniqueId=\UCAHQIOM|Kind=1|AlternatePart= 
-Variation12=Designator=U7|UniqueId=\GLSIMMKM|Kind=1|AlternatePart= 
+Variation10=Designator=U2|UniqueId=\BFIFEPYH|Kind=0|AlternatePart= 
+Variation11=Designator=U3|UniqueId=\UCAHQIOM|Kind=0|AlternatePart= 
+Variation12=Designator=U7|UniqueId=\GLSIMMKM|Kind=0|AlternatePart= 
 Variation13=Designator=D3|UniqueId=\SLLZEWDS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
